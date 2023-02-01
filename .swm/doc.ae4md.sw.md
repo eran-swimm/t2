@@ -3,6 +3,8 @@ id: ae4md
 title: doc
 file_version: 1.1.1
 app_version: 1.1.0
+cross_repo_names:
+  todo: dummy-repo
 ---
 
 <br/>
@@ -26,6 +28,14 @@ snippet from demo
 10     }
 11     
 ```
+
+<br/>
+
+`consoleProps`<swm-token data-swm-token="dummy-repo:cypress/support/commands.js:17:1:1:`      consoleProps () {`"/> is very important symbol
+
+`📄(todo) site-assets/lodash.custom.js`
+
+<br/>
 
 <br/>
 
